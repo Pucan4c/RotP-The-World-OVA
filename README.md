@@ -1,2 +1,5 @@
 # hello-world
-Новый репозиторий
+
+Hi leather humans!
+
+I like pizza.
