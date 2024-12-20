@@ -1,0 +1,62 @@
+{
+  "diova_the_world": {
+    "subtitle": "rotp_ova_tw.subtitle.the_world_ova",
+    "sounds": [ "rotp_ova_tw:stand_user/diova_the_world", "rotp_ova_tw:stand_user/diova_the_world_2" ]
+  },
+  "diova_toki_yo_tomare": {
+    "subtitle": "rotp_ova_tw.subtitle.diova_toki_yo_tomare",
+    "sounds": [ "rotp_ova_tw:stand_user/diova_toki_yo_tomare", "jojo:stand_user/diova_toki_yo_tomare_2" ]
+  },
+  "diova_time_resume": {
+    "sounds": [ "rotp_ova_tw:stand_user/diova_time_resume", "rotp_ova_tw:stand_user/diova_time_resume_2", "rotp_ova_tw:stand_user/diova_time_resume_3" ]
+  },
+  "diova_die": {
+    "subtitle": "rotp_ova_tw.subtitle.diova_die",
+    "sounds": [ "rotp_ova_tw:stand_user/diova_die", "rotp_ova_tw:stand_user/diova_die_2"]
+  },
+  "diova_times_up": {
+    "subtitle": "rotp_ova_tw.subtitle.diova_times_up",
+    "sounds": [ "rotp_ova_tw:stand_user/diova_times_up", "rotp_ova_tw:stand_user/diova_time_resume", "rotp_ova_tw:stand_user/diova_time_resume_2" ]
+  },
+  "diova_time_stop": {
+    "sounds": [ "rotp_ova_tw:stand_user/diova_toki_yo_tomare", "rotp_ova_tw:stand_user/diova_toki_yo_tomare_2", "rotp_ova_tw:stand_user/diova_time_stop","rotp_ova_tw:stand_user/diova_time_stop_2", "rotp_ova_tw:stand_user/diova_time_stop_3" ]
+  },
+  "the_world_ova_time_stop": {
+    "sounds": [ "rotp_ova_tw:stand/the_world_ova_time_stop", "rotp_ova_tw:stand/the_world_ova_time_stop_2", "rotp_ova_tw:stand/the_world_ova_time_stop_3", "rotp_ova_tw:stand/the_world_ova_time_stop_4" ]
+  },
+  "the_world_ova_summon": {
+    "subtitle": "rotp_ova_tw.subtitle.diova_the_world",
+    "sounds": [ "rotp_ova_tw:stand/the_world_ova_summon", "rotp_ova_tw:stand/the_world_ova_summon_2", "rotp_ova_tw:stand/the_world_ova_summon_3" ]
+  },
+  "the_world_ova_unsummon": {
+    "sounds": [ "rotp_ova_tw:stand/the_world_ova_unsummon" ]
+  },
+  "the_world_ova_barrage": {
+    "subtitle": "rotp_ova_tw.subtitle.diova_the_world",
+    "sounds": [ "rotp_ova_tw:stand/the_world_ova_barrage", "rotp_ova_tw:stand/the_world_ova_barrage_2", "rotp_ova_tw:stand_user/diova_barrage" ]
+},
+  "the_world_ova_kick_barrage": {
+    "subtitle": "rotp_ova_tw.subtitle.the_world_ova_kick_barrage",
+    "sounds": [ "rotp_ova_tw:stand/the_world_ova_barrage" ]
+  },
+  "the_world_ova_ts_blink": {
+    "sounds": [ "rotp_ova_tw:stand/the_world_ova_ts_blink" ]
+  },
+  "the_world_ova_heavy_punch": {
+    "sounds": [ "rotp_ova_tw:stand/the_world_ova_heavy_punch" ]
+  },
+  "the_world_ova_zoom": {
+    "sounds": [ "rotp_ova_tw:stand/the_world_ova_zoom" ]
+  },
+  "the_world_ova_zoom_click": {
+    "sounds": [ "rotp_ova_tw:stand/the_world_ova_zoom_click" ]
+  },
+  "fuel_truck_hit": {
+    "subtitle": "rotp_ova_tw.subtitle.fuel_truck_hit",
+    "sounds": [ "rotp_ova_tw:/fuel_truck_hit", "jojo:fuel_truck_hit_2", "jojo:fuel_truck_hit_3" ]
+  },
+  "fuel_truck_land": {
+    "subtitle": "rotp_ova_tw.subtitle.fuel_truck_land",
+    "sounds": [ "rotp_ova_tw:/fuel_truck_land" ]
+  }
+}

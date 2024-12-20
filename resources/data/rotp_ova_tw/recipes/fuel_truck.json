@@ -1,0 +1,33 @@
+{
+  "type": "jojo:crafting_shaped_stand",
+  "pattern": [
+    "idl",
+    "btt",
+    "bib"
+  ],
+  "key": {
+    "b": {
+      "item": "minecraft:iron_block"
+    },
+    "i": {
+      "tag": "forge:ingots/iron"
+    },
+    "t": {
+      "item": "minecraft:tnt"
+    },
+    "d": {
+      "tag": "forge:dyes/red"
+    },
+    "l": {
+      "item": "minecraft:lever"
+    }
+  },
+  "stand": [
+    {
+      "name": "jojo:the_world_ova"
+    }
+  ],
+  "result": {
+    "item": "jojo:fuel_truck"
+  }
+}
