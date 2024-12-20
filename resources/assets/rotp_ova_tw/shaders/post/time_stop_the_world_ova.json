@@ -1,0 +1,32 @@
+{
+  "targets": [
+    "swap"
+  ],
+  "passes": [
+    {
+      "name": "rotp_ova_addon:time_stop",
+      "intarget": "minecraft:main",
+      "outtarget": "swap",
+      "uniforms": [
+        { "name": "TSEffectLength", "values": [ 15.0 ] },
+        {
+            "name": "RedMatrix",
+            "values": [ 1.0, 0.15, 0.50 ]
+        },
+        {
+            "name": "GreenMatrix",
+            "values": [ 0.0, 0.0, 0.0 ]
+        },
+        {
+            "name": "BlueMatrix",
+            "values": [ 0.0, 0.0, 0.0 ]
+        }
+      ]
+    },
+    {
+      "name": "blit",
+      "intarget": "swap",
+      "outtarget": "minecraft:main"
+    }
+  ]
+}
