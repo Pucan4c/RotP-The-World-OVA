@@ -1,0 +1,31 @@
+{
+  "item.rotp_otw.fuel_truck": "Truck Peterbilt 379",
+  "entity.rotp_otw.the_world_ova": "The World (OVA)",
+  "entity.rotp_otw.fuel_truck": "Truck Peterbilt 379",
+  "stand.rotp_otw.the_world_ova": "The World (OVA)",
+
+  "action.rotp_otw.otw_punch": "Punch",
+  "action.rotp_otw.otw_barrage": "Barrage",
+  "action.rotp_otw.otw_heavy_punch": "Heavy Punch",
+  "action.rotp_otw.otw_ultra_punch": "DIE",
+  "action.rotp_otw.otw_smash": "Smash",
+  "action.rotp_otw.otw_block": "Block",
+  "action.rotp_otw.otw_zoom": "Zoom",
+  "action.rotp_otw.otw_kick_barrage": "Foot Barrage",
+  "action.rotp_otw.otw_ts_punch": "Time Breaker",
+  "action.rotp_otw.otw_ts_blink": "TS Blink",
+  "action.rotp_otw.otw_time_stop": "\"Time Stop\" (%ss)",
+  "action.rotp_otw.otw_time_resume": "Time Resume",
+
+  "death.attack.fuelTruck": "%s was smashed flat as a pancake",
+  "death.attack.fuelTruck.player": "%s was smashed flat as a pancake whilst fighting %s",
+
+  "rotp_otw.subtitle.diova_die": "\"DIE\"",
+  "rotp_otw.subtitle.diova_toki_yo_tomare": "\"Time, stop!\"",
+  "rotp_otw.subtitle.diova_tomare_toki_yo": "\"Stop, time!\"",
+  "rotp_otw.subtitle.diova_times_up": "\"Times up\"",
+  "rotp_otw.subtitle.diova_cant_move": "\"I can't move... I-Impossible!\"",
+  "rotp_otw.subtitle.fuel_truck": "\"OIL TANKER DA\"",
+  "rotp_otw.subtitle.fuel_truck_land": "Fuel truck land",
+  "rotp_otw.subtitle.fuel_truck_hit": "Fuel truck hit"
+}

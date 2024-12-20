@@ -1,0 +1,31 @@
+{
+  "item.rotp_otw.fuel_truck": "Truck Peterbilt 379",
+  "entity.rotp_otw.the_world_ova": "The World (OVA)",
+  "entity.rotp_otw.fuel_truck": "Truck Peterbilt 379",
+  "stand.rotp_otw.the_world_ova": "The World (OVA)",
+
+  "action.rotp_otw.otw_punch": "Удар",
+  "action.rotp_otw.otw_barrage": "Шквал ударов",
+  "action.rotp_otw.otw_heavy_punch": "Тяжелый удар",
+  "action.rotp_otw.otw_ultra_punch": "УМРИ",
+  "action.rotp_otw.otw_smash": "Уничтожить",
+  "action.rotp_otw.otw_block": "Защита",
+  "action.rotp_otw.otw_zoom": "Приближение",
+  "action.rotp_otw.otw_kick_barrage": "Шквал ударов ногами",
+  "action.rotp_otw.otw_ts_punch": "Сквозь время",
+  "action.rotp_otw.otw_ts_blink": "Телепортация",
+  "action.rotp_otw.otw_time_stop": "\"Остановка времени\" (%ss)",
+  "action.rotp_otw.otw_time_resume": "Возобновление времени",
+
+  "death.attack.fuelTruck": "%s был раздавлен в лепёшку",
+  "death.attack.fuelTruck.player": "%s был раздавлен в лепёшку в бою с %s",
+
+  "rotp_otw.subtitle.diova_die": "\"УМРИ\"",
+  "rotp_otw.subtitle.diova_toki_yo_tomare": "\"Время, остановись!\"",
+  "rotp_otw.subtitle.diova_tomare_toki_yo": "\"Остановись, время!\"",
+  "rotp_otw.subtitle.diova_times_up": "\"Время вышло\"",
+  "rotp_otw.subtitle.diova_cant_move": "\"Я не могу пошевелиться... Н-Невозможно!\"",
+  "rotp_otw.subtitle.fuel_truck": "\"OIL TANKER DA\"",
+  "rotp_otw.subtitle.fuel_truck_land": "Бензовоз приземлился",
+  "rotp_otw.subtitle.fuel_truck_hit": "Удар по бензовозу"
+}
